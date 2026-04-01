@@ -1,4 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "fastapi"
+  "framework": "fastapi",
+  "functions": {
+    "app.py": {
+      "excludeFiles": "{17 BLUEBYTES/**,__pycache__/**,.env*,.venv/**}"
+    }
+  }
 }
