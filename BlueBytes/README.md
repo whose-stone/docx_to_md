@@ -1,69 +1,48 @@
-# BlueBytes Website
+# BlueBytes Markdown Studio
 
-A 3‑page responsive website with a Node.js backend for handling contact form submissions.
+BlueBytes Markdown Studio is now a browser-based DOCX to Markdown app designed for Vercel: a polished static frontend in `public/` and a FastAPI backend in `app.py`.
 
-## 📁 Project Structure
-- `frontend/` — HTML, CSS, JS
-- `backend/` — Node.js + Express server
+## Project Shape
 
----
+- `app.py` - FastAPI API for uploads and conversion
+- `docx_to_md.py` - shared DOCX to Markdown conversion engine
+- `public/` - browser UI assets
+- `requirements.txt` - Python dependencies
+- `vercel.json` - Vercel framework config
 
-## 🚀 Running Locally
+## Local Development
 
-### 1. Install backend dependencies
-cd backend
-npm install
+From the `BlueBytes` folder:
 
+```powershell
+..\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
 
-### 2. Create `.env`
-EMAIL_USER=your_email_here
-EMAIL_PASS=your_app_password_here
+Run batch conversion locally from the CLI:
 
-### 3. Start backend
-npm start
+```powershell
+..\.venv\Scripts\python.exe docx_to_md.py .
+```
 
+For browser-based local testing, use Vercel local dev:
 
-### 4. Open frontend
-Open `frontend/index.html` in your browser.
+```powershell
+vercel dev
+```
 
----
+## Deployment
 
-## 🌐 Deploying
+Deploy the `BlueBytes` folder to Vercel. The frontend is served from `public/`, and Vercel runs the FastAPI app from `app.py`.
 
-### Frontend
-Deploy `frontend/` to:
-- GitHub Pages
-- Netlify
-- Vercel
-- Azure Static Web Apps
+## Browser Workflow
 
-### Backend
-Deploy `backend/` to:
-- Azure App Service
-- Render.com
-- Railway.app
-- Heroku
-- AWS EC2 / Lightsail
+1. Open the site.
+2. Drag in one or more `.docx` files.
+3. Click `Convert to Markdown`.
+4. Download the generated ZIP of Markdown files.
 
-Set environment variables in your hosting provider.
+## Notes
 
----
-
-## 🛡️ Security Notes
-- Use an email provider with App Passwords (Gmail, Outlook, etc.)
-- Never expose `.env` publicly
-- Use HTTPS in production
-
----
-
-## 🧩 Contact Form Endpoint
-POST `/contact`
-
-Payload:
-```json
-{
-  "name": "John Doe",
-  "email": "john@example.com",
-  "agency": "City PD",
-  "message": "Hello!"
-}
+- The API accepts up to 20 DOCX files per request
+- The API returns a ZIP download containing converted `.md` files plus a `manifest.json`
+- Markdown files include frontmatter with the original source filename and extracted tags
