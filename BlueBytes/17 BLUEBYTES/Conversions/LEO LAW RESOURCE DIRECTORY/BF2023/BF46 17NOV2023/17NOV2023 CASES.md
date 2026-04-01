@@ -1,0 +1,130 @@
+---
+source: "17NOV2023 CASES.docx"
+tags:
+  - Civil-Rights
+  - Constitutional-Law
+  - Criminal-Law
+  - Civil-Rights
+  - Constitutional-Law
+  - Civil-Rights
+  - Constitutional-Law
+  - Criminal-Law
+  - Civil-Rights
+  - Constitutional-Law
+  - Civil-Rights
+  - Personal-Injury
+  - Criminal-Law
+  - Criminal-Law
+---
+
+17NOV2023 CASES
+
+United States v. Royle
+
+Court: US Court of Appeals for the First Circuit
+
+Docket: 20-2143
+
+Opinion Date: November 14, 2023
+
+Judge: Jeffrey R. Howard
+
+> **Areas of Law:** Civil Rights, Constitutional Law, Criminal Law
+
+The First Circuit affirmed Defendant's conviction for possession of child pornography, holding that the district court did not err in denying Defendant's motion to suppress or to dismiss the indictment and that the government set forth sufficient evidence to support Defendant's conviction.
+
+On appeal, Defendant argued, among other things, that the district court erred in denying his motion to suppress the fruits of a warrantless search of his residence and in denying his motion to dismiss the indictment due to inadequate notice of the warrantless search. The First Circuit affirmed, holding (1) assuming that the search of Defendant's home was in violation of the Fourth Amendment, the facts gathered legally provided an independent and adequate source for the warrant application; (2) the district court did not err in denying Defendant's motion to dismiss the indictment or suppress the fruits of the warrant due to insufficient notice; and (3) there was sufficient evidence to sustain Defendant's conviction under 18 U.S.C. 2252A(a)(5)(B)
+
+Abrar Omeish v. Stacey Kincaid
+
+Court: US Court of Appeals for the Fourth Circuit
+
+Docket: 22-1826
+
+Opinion Date: November 15, 2023
+
+Judge: NIEMEYER
+
+> **Areas of Law:** Civil Rights, Constitutional Law
+
+Plaintiff resisted arrest during a traffic stop, and Officer Patrick deployed a burst of pepper spray to her forehead. Further, Sheriff S. Kincaid’s officers required Plaintiff to remove her hijab for the purpose of taking booking photographs. Plaintiff claimed that Officer Patrick used excessive force in arresting her and that Sheriff Kincaid was liable for her office’s policy that disregarded Plaintiff’s religious beliefs in violation of the First Amendment and the Religious Land Use and Institutionalized Persons Act of 2000. The district court dismissed Plaintiff’s claim against Officer Patrick on the basis of qualified immunity, but it granted Plaintiff a permanent injunction, requiring Sheriff Kincaid to destroy all copies of the booking photographs of Plaintiff without her hijab. Sheriff Kincaid filed an appeal seeking to reverse the district court’s order, and Plaintiff filed an appeal from the district court’s order denying her motion for attorneys fees.
+
+As to Sheriff Kincaid’s appeal, the court dismissed it as moot and remanded with instructions to vacate the district court’s judgment. As to Plaintiff’s appeal of the dismissal of her claim against Officer Patrick, the court affirmed. And as to Plaintiff’s appeal of the district court’s order denying her motion for attorneys fees, the court vacated and remanded. The court explained that under Section 1988(b), a prevailing party should ordinarily be awarded reasonable attorneys fees unless special circumstances would render them unjust, whereas under Rule 54(d)(1), a prevailing party is presumed to be entitled to an award of costs unless the court finds an element of injustice in doing so. By addressing Plaintiff’s motion under the incorrect legal standard, the district court erred.
+
+United States v. Hudson
+
+Court: US Court of Appeals for the Seventh Circuit
+
+Docket: 23-1108
+
+Opinion Date: November 16, 2023
+
+Judge: St. Eve
+
+> **Areas of Law:** Civil Rights, Constitutional Law, Criminal Law
+
+Escorted by an officer who had followed him from the scene of a shooting, Hudson entered the Medical Center seeking emergency treatment for a gunshot wound. The officer stood outside Hudson’s hospital room. Medical staff discovered Hudson was concealing “something plastic” in his mouth and spent nearly 20 minutes admonishing Hudson to spit it out before he finally complied, revealing a device used to convert a firearm into a fully automatic weapon. Hudson moved to suppress the device, arguing that the medical staff acted as government agents in conducting a warrantless search.
+
+The Seventh Circuit affirmed the denial of the motion. Knowledge and inaction alone are insufficient to establish an agency relationship. There must be some evidence of government participation in or affirmative encouragement of the private search before a court will hold it unconstitutional. Viewed in context, the officer answered questions but did not direct the medical staff to act in any particular way. The facts supported a finding that medical staff acted with the purpose of providing medical treatment, not assisting law enforcement. The court noted that both the officer and the medical staff apparently assumed that Hudson was concealing drugs, voicing concerns that the suspected drugs could cause him to overdose.
+
+Heather De Mian v. City of St. Louis, Missouri
+
+Court: US Court of Appeals for the Eighth Circuit
+
+Docket: 22-3000
+
+Opinion Date: November 16, 2023
+
+Judge: KOBES
+
+> **Areas of Law:** Civil Rights, Constitutional Law
+
+Plaintiff was filming a protest when Officer Olsten pepper sprayed the crowd. She sued Officer Olsten, Commissioner Hayden, and the City of St. Louis for violating her First Amendment rights, among other things. The district court granted summary judgment on Plaintiff’s federal claims and declined to exercise supplemental jurisdiction over her state law claims. On appeal, Plaintiff challenged the district court’s grant of summary judgment on her First Amendment claim against Officer Olsten and her municipal liability claim against the City. She also argued that her state law causes of action should be “reinstated.”
+
+The Eighth Circuit affirmed. The court explained that there is no evidence from which a reasonable jury could infer that De Mian’s actions motivated Officer Olsten to spray in her direction. So the lack of a causal connection is “so free from doubt as to justify taking this question from the jury.” Plaintiff argued that she is a well-known reporter and is readily identifiable because she is in a wheelchair. But this fact, without more, is insufficient for a jury to infer that Officer Olsten knew or recognized her. She also speculates that Officer Olsten may have been retaliating against her for filming. But “there is no evidence Officer Olsten observed her filming or deployed pepper spray in retaliation for her doing so.”
+
+Duran, et al. v. Budaj, et al.
+
+Court: US Court of Appeals for the Tenth Circuit
+
+Docket: 22-1365
+
+Opinion Date: November 14, 2023
+
+Judge: Rossman
+
+> **Areas of Law:** Civil Rights, Personal Injury
+
+Defendants filed an interlocutory appeal, challenging the district court’s denial of qualified immunity to Officer David McNamee, Officer Cory Budaj, and Sergeant Patricio Serrant. Between May 28 and June 2, 2020, several large protests occurred on Denver streets in reaction to the murder of George Floyd in Minneapolis. On May 30, then-Denver Mayor Michael Hancock declared a state of emergency and imposed a curfew; he also requested assistance from mutual aid police departments, including the Aurora Police Department. At about 9 p.m. on May 31, Plaintiff Zachary Packard was protesting near downtown Denver when a police officer threw a tear gas canister near Packard. Packard kicked the cannister“away from himself and other protesters, in the direction of a line of officers.” Packard kicked the canister about five to ten feet away from himself and other protesters. Critically, this action “did not pose an immediate threat,” the district court concluded, “because officers were equipped with gas masks that protected them from any gas from that container.” Immediately after kicking the canister, Packard was hit in the head with a beanbag round fired from a shotgun; the round knocked him unconscious and caused major injuries. One of the officers on Sergeant Serrant’s line was Defendant Officer McNamee. He fired several beanbag rounds at the time Packard was shot, but the parties disputed whether Officer McNamee was the officer who shot Packard. The district court concluded Plaintiffs raised genuine disputes of material fact as to whether Sergeant Serrant and Officer McNamee were “personally involved in the alleged violation of Mr. Packard’s rights.” The Tenth Circuit Court of Appeals found no reversible error in the district court's judgment and affirmed.
+
+United States v. Maxwell
+
+Court: US Court of Appeals for the Seventh Circuit
+
+Docket: 22-2135
+
+Opinion Date: November 13, 2023
+
+Judge: Brennan
+
+> **Areas of Law:** Criminal Law
+
+Two men buzzed a neighboring unit and explained they were trying to contact Apartment 7’s resident. Neighbors admitted them but moments later heard gunshots. Neighbors called 9-1-1. Police saw bullet holes in Apartment 7’s door, shell casings on the stairs, and an empty gun holster. Considering whether someone inside needed assistance, officers called an ambulance, unsuccessfully tried to contact anyone inside, and attempted to open the door manually. They then used a sledgehammer, which fractured the door, splintered the doorjamb, and overcame the deadbolt 10 minutes after the police arrived. Police immediately smelled raw cannabis and saw loose cannabis. Sergeant Barksdale entered a bedroom, saw a large closet, opened the closet door, and found cannabis. In the living room, he opened another large closet, pushed aside clothing, and found a rifle. The search lasted about 90 seconds. Maxwell arrived. Police determined that it was his apartment and obtained a search warrant. During the subsequent search, they found two guns, more than 10 pounds of marijuana, and $75,000 in cash.
+
+After the denial of his motion to suppress, Maxwell conditionally pled guilty to possession of marijuana with intent to distribute, possession of firearms in furtherance of a drug trafficking crime, and possession of firearms as a felon. The Seventh Circuit affirmed. When the police entered Maxwell’s apartment, they had an objectively reasonable basis for believing someone was injured inside, their entrance did not cause excessive or unnecessary damage, and they searched only in places where an injured person could be.
+
+United States v. Miles
+
+Court: US Court of Appeals for the Seventh Circuit
+
+Docket: 22-2805
+
+Opinion Date: November 13, 2023
+
+Judge: Joel Martin Flaum
+
+> **Areas of Law:** Criminal Law
+
+Officers used a confidential source (CS) for two controlled methamphetamine buys from Deeren. The CS met Deeren at a gas station and went to 3243 Brouse Avenue in Dereen's car. The CS handed Deeren cash; Deeren entered the house. Minutes later, Deeren returned and handed the CS meth. The two returned to the gas station, where the CS gave the meth to an undercover officer. Deeren used a different car each time. Officers obtained a warrant to search the residence and any vehicles on its premises. Days later, they arranged another controlled buy and observed Miles using a key to enter the residence. When Deeren and the CS arrived, Deeren approached Miles on the front porch. Officers arrested both men and executed the warrant. After waiving his Miranda rights, Miles admitted to living at the house and owning two vehicles on the premises (not those used during the controlled buys). The officers found 107.3 grams of meth inside a vehicle, 160.5 grams of meth in the house, 124 grams of a mixture containing cocaine, two rifles, and drug distribution paraphernalia.
+
+Miles, charged with possession with intent to distribute meth and a mixture containing cocaine and knowing possession of two firearms, argued that the warrant did not establish probable cause and was not sufficiently particular. The Sixth Circuit affirmed the denial of his motion to suppress but vacated Miles’s 240-month sentence, remanding for the purpose of vacating one of his firearm sentences and merging his two firearm convictions.

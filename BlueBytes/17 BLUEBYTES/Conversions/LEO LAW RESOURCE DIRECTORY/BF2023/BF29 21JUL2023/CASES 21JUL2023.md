@@ -1,0 +1,116 @@
+---
+source: "CASES 21JUL2023.docx"
+tags:  []
+---
+
+CASES 21JUL2023
+
+United States v. Maurice Bailey
+US Court of Appeals for the Fourth Circuit
+ July 17, 2023
+
+Shortly after witnessing a person leave Defendant’s home, Kannapolis, North Carolina police officer Jeremy Page discovered 0.1 grams of cocaine base during a search of Johnson’s vehicle. Officer Page then confronted Defendant about the cocaine sale and instructed him to turn over any drugs still in his possession. In return, Officer Page assured Bailey that he was “going to take it and . . . leave,” and everything would still be “squared away.” Prompted by Officer Page’s offer, Defendant handed over 0.7 grams of cocaine base. Defendant helped Officer Page locate and arrest an individual for whom the police had an outstanding warrant but did not otherwise aid in Officer Page’s investigations. Then Officer Page obtained two warrants for Defendant’s arrest. On appeal, Defendant argued that the district court should have granted his suppression motion because his arrest constituted a breach of Officer Page’s September 24 promise that all would be “squared away.”
+
+The Fourth Circuit vacated the district court’s decision denying Defendant’s motion to suppress and the judgment of conviction and remanded. The court concluded that if Officer Page did breach a promise not to arrest Defendant for either quantity of drugs recovered on September 24 in exchange for his cooperation, Defendant could seek to enforce that promise against the government. Further, the court wrote that a police officer is not entitled to arbitrarily breach these agreements, which have become a central feature of the many drug-related prosecutions that occupy our criminal legal system each year.
+
+1-9
+
+Austin v. City of Pasadena
+US Court of Appeals for the Fifth Circuit
+July 18, 2023
+
+Plaintiffs claimed law enforcement officers violated the Constitution when they responded to a detainee’s epileptic seizure in a jail cell by restraining and tasing him several times. The district court either dismissed or granted summary judgment on all claims in favor of the Defendants.
+
+The Fifth Circuit reversed the grant of qualified immunity for the individual Defendant Officers as to the Section 1983 claims and the grant of summary judgment on the claims for bystander liability. The court affirmed the grant of summary judgment on municipal liability and on the claims under the Americans with Disabilities Act and Rehabilitation Act. The court explained that the record is insufficient to support a jury question that the use-of-force and ECW policies were so vague that they amounted to no policy at all. These policies “may have been inadequate,” and while a jury might conclude that the City was negligent in not requiring Plaintiffs’ specified actions, “that, of course, is not enough under Section 1983.” The court explained that without evidence showing that the higher level of care was obviously necessary, we cannot see how the jury could conclude that the use-of-force and ECW policies were deliberately indifferent. Accordingly, there was no substantial evidence that such a policy would obviously lead to the violation of pre-trial detainees’ constitutional rights. Further, the court found that Plaintiffs cite no binding caselaw in which liability under the ADA and RA has been extended to a context similar to this one.
+
+8-4, 8-5
+
+Smith v. Lee
+US Court of Appeals for the Fifth Circuit
+July 14, 2023
+
+Defendants Cpl. John Lee and Cpl. Derek Barker appealed the district court’s denial of their motion for summary judgment seeking qualified immunity from Plaintiffs’ unlawful entry and excessive force claims. The Fifth Circuit unanimously concluded that Lee and Barker are not entitled to qualified immunity from Plaintiffs' unlawful entry claims because of material factual dispute regarding consent. However, the court held that Lee is entitled to qualified immunity for any force employed from the moment he entered Plaintiffs' house. The court explained that, including the significant fact that the dog was deployed as a wholly duplicative means of detention, no precedent establishes under analogous circumstances how long a bite is too long. Thus, a jury could not find that every reasonable officer would have known that a K9-trained dog had to be released more quickly. Even if Officer Lee mistakenly permitted Dice to bite Plaintiff for a minute, qualified immunity shields him from suit as well as liability.
+
+8-4, 8-5
+
+United States v. Gaulden
+US Court of Appeals for the Fifth Circuit
+July 14, 2023
+
+Defendant, a rap artist as well as a convicted felon, owned a company that hired a videographer to film Defendant throughout his life for eventual use in a music video. One day, an anonymous 911 caller reported several men with “Uzis” and other guns walking down a residential street in Baton Rouge, Louisiana. Police arrived, detained Defendant, the videographer, and others. Police seized a memory card from the videographer, as well as several firearms from the nearby area. There was a video on the memory card of Defendant holding a firearm.
+
+The district court reasoned that Gaulden had a protectable Fourth Amendment interest in the videos on the memory card, although he lacked a Fourth Amendment interest in the memory card itself. The court also found the warrant fatally defective. Accordingly, the court suppressed the footage of Defendant in possession of the firearms.
+
+The Fifth Circuit reversed. Defendant's right to Fourth Amendment protection turns on whether he has a constitutionally protected property interest or a judicially conferred reasonable expectation of privacy in the place or thing searched or seized. To the extent Defendant can have a distinct property interest in the video footage, he never proved that he acquired such a right. Defendant himself did not testify and there was no written contract giving Defendant ownership of the video footage. And Defendant's company, not Defendant himself, hired the videographer. Thus, Defendant did not have an established property interest in the footage. The court also held that Defendant lacked a reasonable expectation of privacy in the footage.
+
+4-7, 4-8, 1-16
+
+United States v. Scott Nielsen
+US Court of Appeals for the Eighth Circuit
+July 18, 2023
+
+Defendant was charged with possession with intent to distribute five grams or more of methamphetamine, in violation of 21 U.S.C. Section 841(a)(1) and (b)(1), after law enforcement discovered 28 grams of methamphetamine following an inventory search of a vehicle Defendant had been driving. Defendant moved to suppress the methamphetamine. After the district court denied Defendant’s motion, Defendant entered a conditional guilty plea, reserving the right to appeal the denial of his suppression motion.
+
+The Eighth Circuit affirmed. The court explained that when officers conduct an inventory search according to standardized police procedures, the reasonableness requirement is generally met. This is true even when officers are afforded discretion to release a vehicle to a registered, insured driver instead of towing it, provided this discretion “is exercised according to standard criteria and on the basis of something other than suspicion of evidence of criminal activity.” The court wrote that even if it assumes that the officer had an investigatory motive, it still holds that the inventory search was reasonable. Finally, the court explained that SCSD’s inventory-search policy requires officers to open all containers within the vehicle, whether open or closed, to inventory them for valuable items. The officer followed this policy in opening the binoculars case to determine whether there were any items of value inside. Such a policy is “unquestionably permissible.”
+
+5-20
+
+United States v. Childers
+US Court of Appeals for the Eighth Circuit
+July 18, 2023
+
+Defendant conditionally pleaded guilty to being a felon in possession of a firearm and ammunition. His conditional plea preserved his right to appeal the denial of his motion to suppress the ammunition recovered from his person and the firearms recovered from his vehicle. Defendant appealed the district court’s denial of his motion to suppress these preserved issues. On appeal, Defendant argued (1) the high-risk felony stop protocol transformed an investigative stop pursuant to reasonable suspicion, or Terry stop, into a de facto arrest without probable cause; (2) the search of his person “exceeded the permissible scope and intensity” of a valid Terry stop; and (3) the search of the vehicle exceeded the scope of the protective sweep doctrine.
+
+The Eighth Circuit affirmed. 
+The Eighth Circuit considers five principal factors in determining whether a Terry stop
+has transformed into an arrest: (1) the number of officers and police cars involved; (2) the nature of the
+crime and whether there is reason to believe the suspect might be armed; (3) the strength of the officers’ articulable, objective suspicions; (4) the erratic behavior of or suspicious movements by the persons under observation; and (5) the need for immediate action by the officers and
+lack of opportunity for them to have made the stop in less threatening circumstances.
+
+In evaluating the relevant factors, the court explained that it was reasonable to believe that the persons they identified and approached might be armed and had recently unlawfully discharged a firearm. Thus, both factors justified a greater show of force in performing the Terry stop. Here, the officers had at least a reasonable suspicion that at least one of the suspects was armed or that a firearm was in the vehicle. The officers’ actions warranted placing Defendant in a separate secure location. Therefore, applying the court’s precedent to the instant facts, the court concluded that the officers’ methods were permissible and did not transform the Terry stop into an arrest.
+
+3-6
+
+Jordan v. Adams County Sheriff's Office, et al.
+US Court of Appeals for the Tenth Circuit
+July 18, 2023
+
+According to the complaint, Plaintiff John Jordan alleged he was thrown to the ground and arrested for criticizing the police. Moments before the arrest, Jordan stood across the street from Deputies Michael Donnellon and Chad Jenkins listening as the Deputies questioned his nephew about a car accident involving a truck owned by Jordan’s company. Jordan grew frustrated with what he was hearing and started criticizing the two Deputies. The Deputies retaliated with their own disparaging remarks about Jordan. Eventually, Deputy Jenkins became fed up with Jordan’s criticisms and performed a takedown maneuver on Jordan, placing him under arrest for obstruction of justice. As relevant to this appeal, Jordan sued under 42 U.S.C. § 1983 for unlawful arrest, malicious prosecution, and excessive force. The magistrate judge granted the Deputies’ motion for summary judgment on the basis of qualified immunity and dismissed each of these claims. The Tenth Circuit Court of Appeals concluded granting summary judgment to the Deputies was improper: under the "Graham" factors, it was clearly established that the takedown maneuver utilized by the Deputies here was excessive as applied to Jordan at the time of his arrest.
+
+8-2
+
+California v. Gyorgy
+California Courts of Appeal
+July 14, 2023
+
+After the truck defendant-appellant Joseph Gyorgy was driving was pulled over for making an unsafe lane change, a police officer used his narcotics detection dog to sniff the truck’s exterior. The police dog alerted, signaling it detected the odor of narcotics inside the truck’s cab. In a subsequent search of the truck, officers found methamphetamine, a pipe, a handgun, and ammunition. Gyorgy twice moved to suppress the evidence seized in the search of his truck, arguing the search occurred during an unlawfully prolonged traffic stop in violation of the Fourth Amendment. The trial court denied his motions, and he was convicted of possession of methamphetamine and drug paraphernalia. His sole argument on appeal was that the trial court erred by denying his motions to suppress. Based in its analysis of of the United States Supreme Court’s decision in Rodriguez v. United States, 575 U.S. 348 (2015), the Court of Appeal agreed the court erred. "What began as a lawful traffic stop violated the Fourth Amendment’s shield against unreasonable seizures when the officers detoured from the traffic stop’s mission by conducting the dog sniff and inquiring into matters unrelated to the traffic violation." The Court also rejected the California Attorney General’s alternative argument the stop was lawfully prolonged based on reasonable suspicion of other criminal activity.
+
+10-3
+
+State v. McDonnell
+Maryland Court of Appeals
+July 17, 2023
+
+The Court of Appeals held that Defendant had a reasonable expectation of privacy in data contained on his hard drive and that the government conducted an unreasonable search by examining data without any authority to do so either by a warrant or an exception to the warrant requirement.
+
+At issue was whether the consensual creation of a copy of the hard drive of Defendant's seized laptop computer permanently eliminated Defendant's privacy interest in the hard drive. The circuit court denied Defendant's motion to suppress and ultimately convicted him of three counts of distribution of child pornography. The appellate court reversed, concluding that individuals have a legitimate expectation of privacy in the digital data within their computer and that Defendant's revocation of his consent to examine the data from his laptop precluded a forensic examination of the mirror-image copy of its hard drive without a warrant. The Court of Appeals affirmed, holding that the search in this case was unreasonable after Defendant withdrew his consent.
+
+4-6, 4-7, 4-8
+
+State v. Joseph
+Rhode Island Supreme Court
+July 20, 2023
+
+The Supreme Court affirmed the orders of the superior court granting motions to suppress filed by Defendants Jerome Joseph and Voguel Figaro, holding that the hearing justice did not err in granting Defendants' suppression motions.
+
+Figaro moved to suppress physical evidence seized as the result of a motor vehicle stop, arguing that the officer unconstitutionally prolonged the stop to perform a dog sniff. Joseph also filed a motion to suppress and joined the memorandum supporting Figaro's suppression motion. The hearing justice granted the motions to suppress, holding that reasonable suspicion did not support the prolonged traffic stop of Figaro's vehicle. The Supreme Court affirmed, holding that the hearing justice properly found that the state police lacked reasonable suspicion to detain Defendants.
+
+10-3
+
+Zapien-Galvan v. State
+Wyoming Supreme Court
+July 14, 2023
+
+The appellants were pulled over by state troopers for an expired registration. Appellants refused to consent to a search of the car, after which a certified canine alerted to packages containing 320.6 pounds of marijuana. Appellants moved to suppress the evidence, arguing that the officer's conduct in pursuing their vehicle without reasonable suspicion negated the subsequent probable cause for the search. The district court denied the motion. The Supreme Court affirmed, holding that the district court properly denied Appellants' motion to suppress because the underlying traffic stop was both objectively justified and reasonable at its inception and did not violate Wyo. Const. art. I, 4 or the Fourth Amendment.
+
+10-2

@@ -1,0 +1,80 @@
+---
+source: "CASES 19MAY2023.docx"
+tags:
+  - Constitutional-Law
+  - Criminal-Law
+  - Civil-Rights
+  - Constitutional-Law
+  - Criminal-Law
+  - Civil-Rights
+  - Constitutional-Law
+  - Criminal-Law
+  - Civil-Rights
+  - Constitutional-Law
+---
+
+CASES 19MAY2023
+
+United States v. Williams
+
+Court: US Court of Appeals for the Sixth Circuit
+
+Dockets: 22-1024, 22-1038
+
+Opinion Date: May 17, 2023
+
+Judge: Chad A. Readler
+
+> **Areas of Law:** Constitutional Law, Criminal Law
+
+Michigan State Police Officer Lay, stationed about 35 miles from the Indiana state line, noticed a vehicle driving northbound following closely behind another vehicle—a state law infraction. Lay began following the vehicle and ran its plate through a database, which noted that the car had been in Texas, one day before. Lay pulled the vehicle over and approached. Unprompted, the passenger handed over his driver’s license without making eye contact. The driver produced his driver’s license and a car rental agreement. Returning to her cruiser, Lay ran the information through databases and radioed for assistance. The driver’s name came up clean; the passenger was on probation for a prior crime. Meanwhile, Officer Bierema arrived with his drug-detection K-9. Approximately seven minutes into the stop, Lay exited her cruiser to speak with the passenger about his probation status; he was less than forthcoming. Lay requested consent to search the car, which the driver withheld. She then ordered him to stand back while Bierema’s K-9 conducted a sniff of the vehicle’s exterior. The K-9 alerted to the presence of drugs, prompting the officers to search the car. In the back seat, they found two gym bags containing cocaine and methamphetamine.
+
+The Sixth Circuit affirmed the denial of the defendants’ motions to suppress, rejecting arguments that the traffic stop was unconstitutionally overlong and that the driver’s arrest was unsupported by probable cause.
+
+Commonwealth v. Robinson-Van Rader
+
+Court: Massachusetts Supreme Judicial Court
+
+Docket: SJC-13329
+
+Opinion Date: May 15, 2023
+
+Judge: Gaziano
+
+> **Areas of Law:** Civil Rights, Constitutional Law, Criminal Law
+
+The Supreme Judicial Court affirmed the denial of Defendant's motion to suppress evidence seized from his person during a stop and pat-frisk, holding that the new standard adopted in Commonwealth v. Long, 485 Mass. 711, 724-725 (2020), is applicable in the context of police investigations such as pedestrian stops in addition motor vehicle stops.
+
+Defendant was indicted on firearm-related charges after he was stopped by police officers while walking. In his motion to suppress, Defendant argued that the stop was unconstitutional because the officers lacked reasonable suspicion and because statistical evidence proved the officers were more likely to stop Black members of the community than individuals of other races. In addressing Defendant's equal protection challenge, the lower court presumed that this Court's standard for establishing an equal protection claim under the Massachusetts Declaration of Rights, which was adopted to provide a defendant a more accessible path to pursuing an equal protection claim in the context of a motor vehicle stop, applied equally to this pedestrian stop challenge. The Supreme Judicial Court affirmed, holding (1) the new standard adopted in Long is applicable in this case; and (2) the evidence supported the trial court's determination that the officers stopped Defendant to investigate his involvement in the shooting and not because of his race.
+
+People v. Johnson
+
+Court: New York Court of Appeals
+
+Citation: 2023 NY Slip Op 02734
+
+Opinion Date: May 18, 2023
+
+Judge: Wilson
+
+> **Areas of Law:** Civil Rights, Constitutional Law, Criminal Law
+
+The Court of Appeals reversed the denial of Defendant's motion to suppress evidence seized as a result of a stop and frisk, holding that the circumstances of this case did not warrant a level three stop and frisk under People v. De Bour, 40 N.Y.2d 210 (1976).
+
+Defendant, who was stopped and frisked after he existed a parked car and walked down the street, filed a motion to suppress drugs found on his person as the fruits of an illegal search and seizure. The trial court denied the motion to suppress, and Defendant was subsequently convicted of two counts of criminal possession of a controlled substance in the third degree. The appellate division affirmed. The Supreme Court reversed and directed that the indictment be dismissed, holding that the police officer lacked reasonable suspicion to justify the stop and frisk of Defendant. The Court of Appeals reversed, holding that the minimum standard required to justify a stop and frisk under People v. De Bour, 40 N.Y.2d 210 (1976), was not met in this case.
+
+Baker v. Coburn
+
+Court: US Court of Appeals for the Fifth Circuit
+
+Docket: 21-10303
+
+Opinion Date: May 17, 2023
+
+Judge: James E. Graves, Jr
+
+> **Areas of Law:** Civil Rights, Constitutional Law
+
+This qualified immunity case arises from the death of a man who was shot and killed by officers of the Stratford Police Department after he attempted to evade arrest while fleeing in a stolen car. Plaintiffs, the man’s minor child and his estate appealed the district court’s grant of summary judgment to Defendants.
+
+The Fifth Circuit affirmed in part, reversed in part, and remanded to the district court. The court explained that Plaintiffs have not pointed to sufficient authority clearly establishing that the officer’s conduct violated the law under the specific circumstances he was facing, and thus he is entitled to qualified immunity. Further, the court explained that here there are significant factual disputes about the manner in which the incident took place. If the facts are as the officers alleged them—that the man drove straight at the officer and missed, deadly force may well be reasonable. However, at the summary stage, the court must draw all inferences in favor of Plaintiffs’ version of facts. The district court did not address whether the man’s rights with respect to the second round of shots were clearly established. The court reversed the district court’s opinion granting summary judgment as to the second round of shots and remanded to the district court.

@@ -1,0 +1,97 @@
+---
+source: "Coriell v. Snyder, No. 23-12746, Not Rptd F.Rptr., 2024 WL 4524692 (11th Cir. Oct. 18, 2024).docx"
+tags:  []
+---
+
+2024 WL 4524692
+Only the Westlaw citation is currently available.
+United States Court of Appeals, Eleventh Circuit.
+ANTHONY J. CORIELL, Plaintiff-Appellant,
+v.
+OFFICER DOMINIC SNYDER, CITY OF DOUGLASVILLE, GA, Defendants-Appellees.
+No. 23-12746
+|
+Filed: 10/18/2024
+Appeal from the United States District Court for the Northern District of Georgia D.C. Docket No. 1:21-cv-02879-MHC
+Before , Chief Judge, and  and , Circuit Judges.
+**Opinion**
+PER CURIAM:
+Anthony Coriell was a passenger in a vehicle missing a license plate. Douglasville police officer Dominic Snyder pulled the vehicle over and asked for identification from the occupants. Rather than providing identification, Coriell repeatedly gave Snyder a fake name. When asked to exit the vehicle, Coriell pushed Snyder and attempted to flee. In response, Snyder fired his taser and deployed a single charge to stop Coriell's flight. Coriell fell headfirst onto asphalt and suffered multiple injuries, including a  which required hospitalization.
+
+This appeal arises out of a civil lawsuit Coriell filed against Snyder and the City alleging claims under  and Georgia law for the use of excessive force. The district court granted summary judgment to Snyder, concluding that he was entitled to qualified immunity on the  claim because his use of force was reasonable under the circumstances. The district court also granted summary judgment to Snyder on the state-law claims and to the City on the  claim against it. After careful review, and with the benefit of oral argument, we affirm.
+
+**I. BACKGROUND**
+Snyder pulled over a vehicle for a routine traffic stop because it was missing a license plate. In addition to the driver, there were two passengers in the car, including Coriell. Before questioning the driver about the missing license plate, Snyder asked for identification from the vehicle's occupants. Both passengers claimed that they had no identification, so Snyder asked them to write down their names and dates of birth. According to Coriell, he “gave a fictitious name and date of birth because he did not want the officer to know that he was on probation and had failed to satisfy conditions of his probation because he was homeless and had no money.” Doc. 19 ¶ 13.1
+
+Snyder attempted to confirm the passengers’ identities with the police department. While waiting for confirmation, Snyder reported to a second officer at the scene that the vehicle's occupants were “jumpy, not wanting to give [him] information, [and] not wanting [him] to stand next to the car.” Doc. 46 at 07:43–07:48. After the police department reported that a search for the names produced no results, Snyder again approached the vehicle and asked whether the information Coriell provided was correct. Coriell gave a different fictious first name but otherwise confirmed that the name and date of birth he had given were accurate. The other passenger similarly confirmed that the information he provided was accurate. Snyder returned to his squad car and again confirmed that the passengers provided inaccurate identification information. He further reported to the police department that the driver had been standoffish and that he needed to follow up with the driver regarding his vehicle registration. Snyder decided to ask all occupants of the vehicle to step out, starting with Coriell.
+
+Snyder approached the rear passenger seat where Coriell was sitting and asked him to step out of the vehicle. Coriell initially protested but eventually complied. The moment he exited the vehicle, he pushed Snyder, evaded Snyder's grasp, and fled across the grass at the side of the road toward the parking lot of a nearby restaurant. Within two seconds, Snyder drew his taser and shouted “taser, taser.” Doc. 46 at 18:55–18:57.
+
+While Coriell was running through the grass, Snyder fired his taser and delivered a single shock. The taser caused Coriell's body to go rigid, and his momentum carried him into the restaurant parking lot. He crashed face first into the asphalt and “suffer[ed] , a , ... hemorrhaging of the brain, as well as a concussion with lasting effects.” Doc. 19 ¶ 21.
+
+Snyder then arrested Coriell, recovering a cellphone, a glass pipe with drug residue, and a prison release identification card. The State of Georgia charged Coriell with giving false information, obstruction of an officer, possession of crack cocaine, and possession of drug-related objects. Coriell pleaded guilty to all four charges.
+
+Coriell sued Snyder and the City under  for excessive use of force in violation of the Fourth Amendment. He also brought claims under Georgia law, alleging that Snyder violated the state constitution, was negligent, and committed battery. After discovery, Snyder and the City moved for summary judgment. They argued that Snyder was entitled to qualified immunity for Coriell's  claim because Snyder's use of force was objectively reasonable and did not violate clearly established law. And they argued that Coriell's state-law claims failed because Snyder's use of force was also objectively reasonable under the Georgia Constitution and there was no evidence that Snyder intended to harm Coriell. Lastly, they argued that the City was entitled to summary judgment on Coriell's  claim because no constitutional violation occurred.
+
+The district court agreed, granting Snyder and the City's summary judgment motion. Coriell now appeals the district court's order.
+
+**II. STANDARD OF REVIEW**
+We review the district court's grant of summary judgment *de novo*, applying the same legal standards as the district court. . Summary judgment is appropriate only “if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” . The court must draw all reasonable inferences in favor of the non-moving party. . “ ‘[W]hen opposing parties tell two different stories, one of which is blatantly contradicted by the record as with a video recording of the incident, so that no reasonable jury could believe it, a court should not adopt that version of the facts.’ ” *Id.* (alteration adopted) (quoting ). Thus, the court adopts the non-movant's facts only to the extent that they are not “blatantly contradicted by” a video recording. *Id.*
+
+**III. DISCUSSION**
+We proceed in three parts. First, we consider whether the district court properly concluded that Snyder is entitled to qualified immunity for Coriell's  claim for violation of the Fourth Amendment. Second, we address the district court's grant of summary judgment to Snyder on Coriell's state-law claims. Third, we consider the district court's grant of summary judgment to the City.
+
+**A. Snyder is Entitled to Qualified Immunity on Coriell's **** Fourth Amendment Claim.**
+Under the doctrine of qualified immunity, “government officials performing discretionary functions generally are shielded from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.” . A government official raising a qualified-immunity defense first must show that “he was acting within the scope of his discretionary authority when the allegedly wrongful acts occurred.”  (internal quotation marks omitted). Once the official makes this showing, the burden shifts to the plaintiff to demonstrate that (1) the defendant violated the plaintiff's constitutional rights, and (2) these rights were clearly established at the time of the alleged violation. . The parties do not dispute that Snyder was acting within his discretionary authority when he used his taser against Coriell. The burden thus shifted to Coriell to prove that Snyder violated his Fourth Amendment rights and that the rights were clearly established.
+
+The Fourth Amendment to the Constitution provides a “right of the people to be secure in their persons ... against unreasonable searches and seizures.” “The Fourth Amendment's freedom from unreasonable searches and seizures encompasses the plain right to be free from the use of excessive force in the course of an arrest.” . In excessive force cases, the question of whether a plaintiff's constitutional rights were violated is answered using the Fourth Amendment's objective reasonableness standard. . “Reasonableness is the touchstone for all excessive force claims, regardless of whether the force used was deadly.” . In assessing reasonableness, we must judge the facts “from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight.”  (internal quotation marks omitted). This is because “[t]he calculus of reasonableness must embody allowance for the fact that police officers are often forced to make split-second judgments—in circumstances that are tense, uncertain, and rapidly evolving—about the amount of force that is necessary in a particular situation.” . The amount of force used by an officer “must be reasonably proportionate to the need for that force.” .
+
+In evaluating an excessive-force claim, we look to the nonexhaustive list of factors the Supreme Court set out in *Graham*. *See* . These factors include: “the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others, and whether he is actively resisting arrest or attempting to evade arrest by flight.” *Id.* We also consider “the need for the application of force, the relationship between the need and the amount of force used, [and] the extent of the injury inflicted.” .
+
+After considering these factors, we conclude that Snyder's single use of the taser was objectively reasonable under the circumstances. Coriell was both actively resisting arrest and attempting to evade arrest by flight. Upon exiting the vehicle, Coriell pushed Snyder away and resisted Snyder's attempts to restrain him. He then fled on foot. Snyder used his taser to halt Coriell's attempted flight. He did not use more force than was necessary. He deployed “a single use of the taser gun causing a one-time shocking,” which was proportionate to the need to stop Coriell from fleeing arrest. . Moreover, the amount of force was reasonable because, “where a suspect appears ... uncooperative, use of a taser might be preferable to a physical struggle” that could have led to further harm to the officer or the suspect.  (internal quotation marks omitted). Further supporting the proportionality of the force applied is the fact that Snyder applied no additional force after Coriell stopped resisting arrest and complied with officer instructions.
+
+Coriell asserts that he was merely fleeing and offered no physical resistance. Because this case is at the summary-judgment stage, we must view the evidence in the light most favorable to Coriell and draw all reasonable inferences from the evidence in his favor. . Where video evidence contradicts his version of the facts, however, we do not credit his version. *Id.* (“[W]hen opposing parties tell two different stories, one of which is blatantly contradicted by the record as with a video recording of the incident, so that no reasonable jury could believe it, a court should not adopt that version of the facts.” (alteration adopted) (quoting )).
+
+Video footage from Snyder's bodycam and his police vehicle's dashcam contradicts Coriell's assertion. It shows that he resisted arrest by pushing Snyder before fleeing. So we do not adopt Coriell's version of the facts concerning his resistance.2
+
+We remain mindful that our Fourth Amendment analysis, must encompass the “totality of the circumstances.” . And we acknowledge that some of the *Graham* factors do not weigh in Snyder's favor. But they do not convince us that Snyder's use of force was unreasonable under the totality of the circumstances.
+
+For one, the severity of the crime does not weigh in Snyder's favor. When Snyder deployed his taser, he had probable cause to believe that Coriell had committed two crimes: giving false information and obstruction of an officer. We have held that such crimes are “of ‘minor severity’ for which less force is generally appropriate.”  (quoting ). Similarly, when Coriell fled, Snyder had no reason to believe that he posed a threat of violence. Snyder had no indication that Coriell or anyone else in the vehicle might be armed. But no threat of violence was required to justify a single use of the taser to stop Coriell once he physically resisted arrest and fled. *See *.
+
+A final factor—the extent of the injury—weighs in Coriell's favor. Tragically, he suffered serious injuries when he fell onto the asphalt after being shocked with the taser. He suffered a , a , and a concussion, injuries from which he continues to suffer lasting effects. “In the Eleventh Circuit, [however,] we recognize that the typical arrest involves some force and injury.” . We also recognize that tasers are typically non-deadly weapons that do not generally inflict serious injury. . Snyder's bodycam footage indicates that when he deployed his taser, Coriell was still running in the grass, and so a reasonable officer in Snyder's position would not have known or suspected that Coriell would land face first on the asphalt. Thus, under the totality of the circumstances, the extent of the injury Coriell suffered does not mean that it was unreasonable for Snyder to use a taser to stop him.
+
+Coriell counters that he was in a precarious position because he was crossing from grass onto an asphalt parking lot when he was tased. He relies on , to argue that tasing a plaintiff in a precarious position in which the resulting fall could lead to serious injury is a use of deadly force. The use of deadly force is unreasonable when the suspect poses no threat to officers or others and is merely fleeing arrest. *See **.* Coriell argues that because he did not pose a threat, a jury could find that Snyder's use of the taser when Coriell was running on asphalt was an unreasonable use of deadly force.
+
+In *Bradley*, an officer chased the fleeing plaintiff and then tased him without warning while he was atop an eight-foot-high wall, resulting in serious injury to the plaintiff. . The officer admitted that he knew he should not have tased the plaintiff when there was a risk of falling that would likely result in serious harm. . In assessing the plaintiff's excessive-force claim, we concluded that a reasonable jury could find that the officer used excessive force. *Id.* Although “a taser is generally not a deadly weapon,” we concluded that “tasing a person who is at an elevated height may come with a substantial risk of serious bodily harm or death.” *Id.*
+
+The facts of this case are very different from the facts of *Bradley*. Snyder made the decision to use his taser within two seconds of Coriell's flight and called out a warning before using the taser. As we have explained, the bodycam footage shows that Coriell was running in the grass when Snyder gave the warning and deployed his taser. Unlike falling from a high wall, not every reasonable officer would have known of the likelihood of serious injury from falling where Coriell was when he was tased.
+
+Lastly, Coriell argues that there are questions of fact regarding whether Snyder's questioning of the passengers during the traffic stop was lawful. He conceded, however, that the stop was lawful, and he did not allege any Fourth Amendment violation other than the use of excessive force. Thus, we need not consider this argument.
+
+We conclude that because Snyder's use of force was objectively reasonable, he did not violate Coriell's Fourth Amendment rights and is entitled to qualified immunity. Absent a constitutional violation, we need not address whether the rights were clearly established at the time of the incident.
+
+**B. Snyder is Entitled to Summary Judgment on Coriell's State-law Claims.**
+Coriell also brings Georgia constitutional claims and tort claims. The district court did not err in granting summary judgment on these claims.
+
+For the Georgia constitutional claims, we apply the same analysis that we used for Coriell's  excessive force claim. Like the Fourth Amendment, the Georgia Constitution protects against unreasonable searches and seizures. . The Supreme Court of Georgia has ruled that the standard for evaluating the reasonableness of a search or seizure under the Georgia and federal Constitutions is the same.  (citing ). The district court properly applied this rule and concluded that, if Coriell's claims failed under the Fourth Amendment, his claims failed under the Georgia Constitution. Coriell thus cannot show that Snyder used excessive force in violation of the Georgia Constitution.
+
+Coriell's tort claims also fail. Under Georgia law, official immunity “protects an officer from personal liability arising from his performance of ‘official functions’ as long as the officer did not act with ‘actual malice’ or ‘actual intent to cause injury.’ ”  (quoting (d)). “ ‘[A]ctual malice’ requires a deliberate intention to do wrong.”  (quoting ). And “actual intent to cause injury” requires an “actual intent to cause harm to the plaintiff, not merely an intent to do the act purportedly resulting in the claimed injury.”  (internal quotation marks omitted). Coriell concedes on appeal that Snyder did not intend to cause him harm. He thus cannot maintain a successful Georgia tort-law claim against Snyder.
+
+**C. The City is Entitled to Summary Judgment on Coriell's Municipal Liability Claim.**
+Like his claims against Snyder, Coriell's claim against the City of Douglasville fails because there was no constitutional violation. The claim against the City is based on the allegation that Snyder's allegedly wrongful use of the taser arose from City policy. Municipalities may be held liable under  only where “action pursuant to official municipal policy of some nature caused a constitutional tort.” . This standard requires a plaintiff to show “(1) that his constitutional rights were violated; (2) that the municipality had a custom or policy that constituted deliberate indifference to that constitutional right; and (3) that the policy or custom caused the violation.” . When an officer has committed no constitutional violation, however, there can be no policy-based liability against the municipality. . Because we conclude that Snyder committed no constitutional violation, Coriell's claim against the City fails as a matter of law.
+
+**IV. CONCLUSION**
+For the above reasons, we affirm the district court's grant of summary judgment to Snyder and the City.
+
+**AFFIRMED.**
+
+**All Citations**
+Not Reported in Fed. Rptr., 2024 WL 4524692
+
+| Footnotes | Footnotes |
+| --- | --- |
+| 1 | “Doc.” numbers refer to the district court's docket entries. |
+| 2 | Coriell also points to his expert's opinion that Snyder's use of the taser was inconsistent with national training standards that advise officers not use tasers against subjects who are not actively resisting and that fleeing should not be the sole justification for taser use. Because, as we describe above, the video evidence plainly shows that Coriell was resisting, the expert's opinion does not change our analysis. |
+
+| End of Document | © 2024 Thomson Reuters. No claim to original U.S. Government Works. |
+| --- | --- |

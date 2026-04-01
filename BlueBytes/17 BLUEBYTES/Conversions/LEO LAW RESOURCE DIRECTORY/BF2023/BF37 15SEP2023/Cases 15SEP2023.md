@@ -1,0 +1,38 @@
+---
+source: "Cases 15SEP2023.docx"
+tags:
+  - 1-5
+  - 5-6-4
+  - 6-5-2
+---
+
+Cases 15SEP2023
+
+Adam Armstrong v. Bryan Hutcheson
+US Court of Appeals for the Fourth Circuit
+September 13, 2023
+
+> **Areas of Law:** 1-5, 5-6-4
+
+Plaintiff alleged that two sheriff deputies unlawfully entered his home. The deputies claim Armstrong’s then-wife invited them in. But although they disagree on whether the deputies’ conduct was reasonable, they do not dispute the historical facts as to what happened. Plaintiff filed a claim under 42 U.S.C. Section 1983. The deputies moved for summary judgment on the merits claiming that, even construing the facts in the light most favorable to Plaintiff, their conduct was objectively reasonable. Alternatively, the deputies claimed they should be granted summary judgment based on qualified immunity. The district court agreed with the deputies on the merits, finding the deputies reasonably believed that Roadcap had the authority to consent to the deputies’ entry.
+
+The Fourth Circuit affirmed. The court explained that, construing the evidence in the light most favorable to Plaintiff, the deputies did, as the district court concluded, briefly detain Plaintiff. But the court agreed with the district court that the deputies acted reasonably as a matter of law because they were responding to a domestic situation, there were guns in the house, and Plaintiff was argumentative. Accordingly, the court affirmed the district court’s order granting summary judgment on the seizure of person claim as well. 
+
+United States v. Leon
+US Court of Appeals for the Tenth Circuit
+September 11, 2023
+
+> **Areas of Law:** 6-5-2
+
+Defendant-appellant Luis Leon was stopped by law enforcement after he was observed illegally driving in a passing lane. Leon was traveling eastbound on I-70 in Colorado when Colorado State Patrol Trooper Shane Gosnell observed him driving in the left lane while not passing another vehicle. Trooper Gosnell began to follow Leon’s 2006 Honda Ridgeline truck and noticed it had a Minnesota license plate. Trooper Gosnell initiated a traffic stop suspecting Leon was trafficking drugs. A search of his vehicle uncovered seventy-six pounds of methamphetamine, and Leon was charged with one count of possessing methamphetamine with intent to distribute. Following a failed motion to suppress, he pled guilty and was sentenced to seventy months’ imprisonment. On appeal, Leon challenged the denial of his suppression motion, arguing that the officer lacked reasonable suspicion to extend the stop and investigate the suspected drug trafficking. After review, the Tenth Circuit agreed and therefore reversed.
+
+From the case:
+
+*The parties agree that a Rodriguez moment occurred when Trooper Gosnell asked*
+*Mr. Leon for the car’s mileage. Our inquiry is therefore whether Trooper Gosnell*
+*reasonably suspected Mr. Leon was engaged in criminal activity at the time he asked for*
+*the mileage.*
+
+*First, the characterization of Arizona and Minnesota as drug hubs or destinations** **adds nothing to the reasonable suspicion calculus.**  **Second, the district court placed undue emphasis on Mr. Leon’s travel plans of** **driving from Phoenix to Denver to pick up books and perhaps stay for an event.** **Nor do we find it suspicious that Mr. Leon planned to play his trip** **in Denver by ear.**  **At the** **time of the Rodriguez moment, Mr. Leon had not made any inconsistent statement about** **where he was living.5 To the extent the district court found otherwise, it was clearly** **erroneous.** **Moreover, we afford no weight to the condition of the vehicle’s interior, which** **had food wrappers, soda and energy drink containers, miscellaneous boxes, and clothes.* *The lived-in** **or hard-travelled appearance Trooper Gosnell noted may be consistent with drug** **trafficking trips but it is also characteristic of most road trips.* *Next, we have consistently held that ordinary nervousness bears little weight in the** **reasonable suspicion calculus.**  *
+
+*Although reasonable suspicion is a low bar, “[t]he articulated factors together must serve** **to eliminate a substantial portion of innocent travelers before the requirement of** **reasonable suspicion will be satisfied.” This is a** **close case, but we cannot say the factors operate together to eliminate a sufficient portion** **of innocent travel. “Reliance on the mantra ‘the totality of the circumstances’ cannot** **metamorphose these facts into reasonable suspicion.” We** **therefore **c**onclude that Trooper Gosnell’s suspicion was inchoate rather than reasonable.*
