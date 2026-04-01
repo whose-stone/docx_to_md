@@ -29,6 +29,11 @@ async def health_check():
     return {"ok": True}
 
 
+@app.get("/")
+async def home():
+    return RedirectResponse(url="/index.html", status_code=307)
+
+
 @app.get("/favicon.ico", include_in_schema=False)
 async def favicon():
     return RedirectResponse(url="/favicon.svg")
